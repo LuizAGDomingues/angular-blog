@@ -10,6 +10,7 @@
 
 .big-card_photo > img{
   width: 100%;
+  height: 12.5rem;
   min-width: 25rem;
 }
 
