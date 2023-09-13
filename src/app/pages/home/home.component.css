@@ -1,6 +1,11 @@
 .container_articles{
-  margin-top: 1.875rem;
+  margin-top: 3.75rem;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: center;
+  gap: 6.25rem;
+}
+
+.container_articles > hr{
+  border: 1px solid gray;
 }

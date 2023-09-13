@@ -1,5 +1,4 @@
 .container_big-card{
-  margin: 1.25rem 0rem;
   width: 37.5rem;
   height: 31.25rem;
   display: flex;
@@ -10,8 +9,8 @@
 
 .big-card_photo > img{
   border-radius: .25rem;
-  width: 37.5rem;
-  height: 18.75rem;
+  width: 100%;
+  max-height: 31.25rem;
 }
 
 .big-card_title > h1{
