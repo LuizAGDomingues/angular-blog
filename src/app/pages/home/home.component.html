@@ -2,11 +2,14 @@
 
 <div class="container_articles">
   <div class="articles_main">
-    <app-big-card id="1"></app-big-card>
+    <app-big-card id="{{ newsToBigCard?.source?.id }}" cardDescription="{{ newsToBigCard?.description }}" cardTitle="{{ newsToBigCard?.title }}" photoCover="{{ newsToBigCard?.urlToImage }}"></app-big-card>
   </div>
   <div class="articles_others">
-    <app-small-card id="2"></app-small-card>
-    <app-small-card id="3"></app-small-card>
-    <app-small-card id="4"></app-small-card>
+    <app-small-card
+      *ngFor="let articles of newsToSmallCard"
+      [id]="articles.source.id"
+      [cardTitle]="articles.title"
+      [photoCover]="articles.urlToImage"
+    ></app-small-card>
   </div>
 </div>

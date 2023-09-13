@@ -1,0 +1,60 @@
+{
+  "news": {
+    "status": "ok",
+    "totalResults": 68,
+    "articles": [
+      {
+        "source": {
+          "id": "buzzfeed",
+          "name": "Buzzfeed"
+        },
+        "author": "Morgan Sloss",
+        "title": "18 Reasons Why People's Relationships Died - BuzzFeed",
+        "description": "\"I knew it was over with a live-in boyfriend because MY dog died, and he called into work the next day because he claimed he was too sad to go in because of the dog. This was the fourth job he'd had in a year, and he was always blaming everybody else for why …",
+        "url": "https://www.buzzfeed.com/morgansloss1/moment-relationship-died",
+        "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-09/7/22/enhanced/b0a915794cf9/original-2065-1694126020-2.jpg?crop=1200:628;0,0%26downsize=1250:*",
+        "publishedAt": "2023-09-10T23:16:03Z",
+        "content": "\"I realized that we had a problem and made continual efforts to seduce him. I bought a sexy lingerie outfit, and when I put it on and showed it to him, the reaction I got was 'Why did you buy that?' … [+349 chars]"
+      },
+      {
+        "source": {
+          "id": "usa-today",
+          "name": "USA Today"
+        },
+        "author": ", USA TODAY",
+        "title": "'Good Morning America' host Robin Roberts marries Amber Laign in 'magical' backyard ceremony - USA TODAY",
+        "description": "\"Good Morning America\" co-anchor Robin Roberts married partner Amber Laign in a \"magical\" backyard ceremony, the broadcaster shared on social media.",
+        "url": "https://www.usatoday.com/story/entertainment/celebrities/2023/09/10/robin-roberts-amber-laign-wedding-good-morning-america/70818442007/",
+        "urlToImage": "https://www.gannett-cdn.com/authoring/authoring-images/2023/09/10/USAT/70818453007-gty-1638907570.jpg?auto=webp&crop=3994,2256,x0,y683&format=pjpg&width=1200",
+        "publishedAt": "2023-09-10T23:09:51Z",
+        "content": "Robin Roberts found happiness and marital bliss in her own backyard.\r\nThe \"Good Morning America\" co-anchor revealed she married longtime partner Amber Laign in an Instagram post Sunday. Roberts share… [+2066 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Rolling Stone"
+        },
+        "author": "Daniel Kreps",
+        "title": "Ed Sheeran Postpones Las Vegas Show at the Last Minute Due to ‘Technical Issues’ - Rolling Stone",
+        "description": "Some fans required medical attention for heat-related issues as thousands descended on Allegiant Stadium in 90+ degree heat before gig was pushed to next month",
+        "url": "https://www.rollingstone.com/music/music-news/ed-sheeran-postpones-las-vegas-show-technical-issues-1234821714/",
+        "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/09/GettyImages-1253911131.jpg?w=1600&h=900&crop=1",
+        "publishedAt": "2023-09-10T23:02:35Z",
+        "content": "Ed Sheeran’s Saturday night concert in Las Vegas was postponed at the last minute due to “technical issues,” leaving thousands of fans in the sweltering heat outside the city’s Allegiant Stadium.\r\n“I… [+3408 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "KHOU.com"
+        },
+        "author": "Associated Press",
+        "title": "Texas singer-songwriter Charlie Robison dead at 59 - KHOU.com",
+        "description": "Robison died at a hospital in San Antonio after suffering cardiac arrest and other complications, according to a family representative.",
+        "url": "https://www.khou.com/article/news/local/texas/charlie-robison-dead/285-db7d8039-1006-4f2b-b0cc-8e93fc7a60cb",
+        "urlToImage": "https://media.khou.com/assets/KHOU/images/b704022b-51f4-4ce9-9aef-8272cc1e8db8/b704022b-51f4-4ce9-9aef-8272cc1e8db8_1140x641.jpg",
+        "publishedAt": "2023-09-10T22:44:00Z",
+        "content": "SAN ANTONIO Charlie Robison, the Texas singer-songwriter whose rootsy anthems made the country charts until he was forced to retire after complications from a medical procedure left him unable to sin… [+1400 chars]"
+      }
+    ]
+  }
+}

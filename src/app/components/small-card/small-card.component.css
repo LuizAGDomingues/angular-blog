@@ -1,6 +1,7 @@
 .container_small-card{
   width: 43.75rem;
   margin-bottom: .9375rem;
+  margin-top: 1.25rem;
 }
 
 .container_small-card-content{
@@ -9,6 +10,7 @@
 }
 
 .small-card_photo > img{
+  border-radius: .25rem;
   width: 12.5rem;
   min-width: 12.5rem;
   margin-right: 1.25rem;
