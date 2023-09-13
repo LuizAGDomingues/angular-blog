@@ -19,7 +19,6 @@ export class HomeComponent {
     this.newsService.getNews().subscribe(result => {
       this.newsToBigCard = result.articles.shift();
       this.newsToSmallCard = result.articles;
-
     });
   }
 
