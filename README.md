@@ -42,13 +42,13 @@ export const environment = {
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone [https://link-para-o-projeto](https://github.com/LuizAGDomingues/angular-blog)
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd angular-blog
 ```
 
 Instale as dependências
